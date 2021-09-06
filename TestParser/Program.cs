@@ -16,8 +16,8 @@ namespace TestParser
                 //@"/of:D:\results.xlsx",
                 //@"F:\Soheil\RaveshMand\TestParser-master\TestParser\bin\Debug\TestParser.exe",
                 
-                @"F:\Soheil\RaveshMand\Pointer6EndToEndTest(Soheil)\PointerEndToEndTest\TestResults\Amir_DESKTOP-1ADHSS2_2021-08-04_22_21_48.trx",
-                "UnitTest"
+                @"Your Address Of Trx File In Your Computer",
+                "The Name Of The Test"
 
                 ////@"D:\test.xml"
 
